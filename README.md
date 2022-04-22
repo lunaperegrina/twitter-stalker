@@ -1,20 +1,14 @@
+<div align="center">
+   <img  src="icon-twitter-stalker.svg" width=300 />
+</div>
 
-<center>
-    <img src="icon-twitter-stalker.svg" width=300>
-</center>
-
-<center>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</center>
-<br>
-<center>
-    <h1>Twitter Stalker</h1>
-</center>
-<center>
-    <h2>Este software faz o monitoramento de contas do Twitter com apoio da Twitter API V2.</h2>
-</center>
-
-<br>
+<p align="center">
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+<div align="center">
+   <h1>Twitter Stalker</h1>
+    Este software faz o monitoramento de contas do Twitter com apoio da Twitter API V2.
+</div>
 
 ## Instalação:
 
