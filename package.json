@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "twitter-stalker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pedroperegrinaa <pedrosilva1p333@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "nodemailer": "^6.7.3",
+    "puppeteer": "^13.5.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
